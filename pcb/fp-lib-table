@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
-  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/../MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/../random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/../kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name la_nc)(type KiCad)(uri ${KIPRJMOD}/../footprints/la_nc.pretty)(options "")(descr ""))
 )
