@@ -2,7 +2,7 @@
 
 ![subrezon/la_nc](https://i.imgur.com/xYDcTts.jpg)
 
-Inspired by keyboard% like Planck, Lumberjack and Lesovoz, la_nc aims to deliver a lightly split, ortho typing experience in a similar footprint, as well as an easy build process.
+Inspired by keyboards like Planck, Lumberjack and Lesovoz, la_nc aims to deliver a lightly split, ortho typing experience in a similar footprint, as well as an easy build process.
 
 The name comes from the design process: take a Planck, remove a column from each side, then split it down the middle. Planck -> lanc -> la_nc.
 
