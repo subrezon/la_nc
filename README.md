@@ -39,9 +39,7 @@ TODO
 
 # QMK Firmware
 
-My pull request is *still* being reviewed by qmk, so my branch to build the firmware for now: https://github.com/subrezon/qmk_firmware/tree/subrezon/la_nc
-
-You can find the firmware under subrezon/la_nc in the official QMK repository: TODO
+You can find the firmware under subrezon/la_nc in the official QMK repository: https://github.com/qmk/qmk_firmware/tree/master/keyboards/subrezon/la_nc
 
 Here's an example of flashing the keyboard with the default firmware:
 
