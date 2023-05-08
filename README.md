@@ -1,3 +1,5 @@
+# This keyboard has been succeeded by [Lancer](https://github.com/subrezon/lancer). If you're interested in la_nc - I recommend building a Lancer instead.
+
 # la_nc
 
 ![subrezon/la_nc](https://i.imgur.com/xYDcTts.jpg)
